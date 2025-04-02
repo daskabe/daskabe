@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Dawit</h1>
 <h3 align="center">Apps, Services & Integration Ninja ⚔️</h3>
-
+<p align="center">fyi: This is my personal playground account : you should see my job account..crazy! :) </p>
 ---
 
 ### 🧠 About Me
